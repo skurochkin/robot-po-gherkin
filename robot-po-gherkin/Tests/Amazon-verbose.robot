@@ -8,6 +8,7 @@ Test Teardown  End Web Test
 
 # Copy/paste the below command to Terminal to execute:
 # pybot -d results/verbose tests/amazon-verbose.robot
+# test
 
 *** Test Cases ***
 Logged out user can search for products

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/more-readable-gherkin.iml" filepath="$PROJECT_DIR$/.idea/more-readable-gherkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/robot-po-gherkin.iml" filepath="$PROJECT_DIR$/.idea/robot-po-gherkin.iml" />
     </modules>
   </component>
 </project>
